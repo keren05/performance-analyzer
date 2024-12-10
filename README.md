@@ -8,10 +8,11 @@ To run this project, please follow these steps:
 
 1. Ensure you have Node.js and npm (Node Package Manager) installed on your system.
 2. Clone the repository to your local machine.
-3. Navigate to the project directory in your terminal or command prompt.
+3. Navigate to the project directory(src) in your terminal or command prompt.
 4. Run the command `npm install` to install all the required dependencies.
-5. Once the installation is complete, run the command `npm start` to start the development server.
-6. Your default web browser should automatically open and display the running application.
+5. Type out "cd performance-analyzer"
+6. Once the installation is complete, run the command `npm start` to start the development server.
+7. Your default web browser should automatically open and display the running application.
 
 (b) Design Choices:
 
